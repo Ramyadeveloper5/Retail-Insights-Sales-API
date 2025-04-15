@@ -26,7 +26,7 @@ STEP 3 : Flask Setup
     Create the routes.py file to write the api for two routes
         1. Summary routes
         2. Filter by the Product routes
-    Create the flask file to the run Project
+    Create the flask file to the run Project : (python run.py)
 
 STEP 4 : Testing in Postman
     
